@@ -4,7 +4,7 @@ test
 
 ## Website
 
-[https://alschaap.github.io/test2](https://alschaap.github.io/test2)
+[https://alschaap.github.io/test2](https://alschaap.github.io/linkml_test2)
 
 ## Repository Structure
 
